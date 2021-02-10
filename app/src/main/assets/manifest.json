@@ -1,0 +1,5 @@
+{
+  "modelFile": "animal.tflite",
+  "labelsFile": "label.txt",
+  "modelType": "IMAGE_LABELING"
+}
